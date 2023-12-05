@@ -3,8 +3,8 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hafsasaif&show_icons=true&theme=radical&hide_border=true&locale=en&layout=compact" alt="6vr" />
 
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/0co0l-hamood-alsalmani#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/0co0l-hamood-alsalmani#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/hafsa-al-saidi#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/hafsa-al-saidi#gh-dark-mode-only)
 &nbsp;&nbsp;
 
 </a>
